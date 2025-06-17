@@ -6,7 +6,8 @@ print("hello from day2")
 # Task 1:
 for count in range(100000000):
     print("I will not sling mud at my friends!")
-
+for letter in "This is a beautiful day":
+    p
 ########################################################################
 # Task 2:
 
