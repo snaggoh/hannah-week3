@@ -13,7 +13,7 @@ for letter in "This is a beautiful day":
 name = "Phoebe"
 for letter in name:
     print("Give me a " + letter + "!")
-print
+print("")
 ########################################################################
 # Task 3:
 
