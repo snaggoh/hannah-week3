@@ -22,7 +22,7 @@ for counter in range(10):
 
 ########################################################################
 # Task 4:
-for counter in range(1, 11):
+for counter in range(1, 11, 12):
     print(counter)
 
 
