@@ -12,7 +12,7 @@ for letter in "This is a beautiful day":
 # Task 2:
 name = "Phoebe"
 for letter in name:
-    print 
+    print("")
 ########################################################################
 # Task 3:
 
