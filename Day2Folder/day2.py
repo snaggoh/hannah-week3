@@ -11,7 +11,8 @@ for letter in "This is a beautiful day":
 ########################################################################
 # Task 2:
 name = "Phoebe"
-forletter
+for letter in name:
+    print 
 ########################################################################
 # Task 3:
 
