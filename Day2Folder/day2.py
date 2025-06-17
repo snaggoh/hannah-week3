@@ -14,7 +14,7 @@ name = "Phoebe"
 for letter in name:
     print("Give me a " + letter + "!")
 print("Who is the best?")
-P
+print()
 ########################################################################
 # Task 3:
 
