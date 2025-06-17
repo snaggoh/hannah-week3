@@ -5,7 +5,7 @@ print("hello from day2")
 ########################################################################
 # Task 1:
 for count in range(10):
-    print("I will not sling mud ")
+    print("I will not sling mud at my friends!")
 
 ########################################################################
 # Task 2:
