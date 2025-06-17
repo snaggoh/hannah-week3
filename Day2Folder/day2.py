@@ -17,13 +17,13 @@
 # print(name + "!!!")
 ########################################################################
 # Task 3:
-for counter in range(10):
-    print(counter)
+# for counter in range(10):
+#     print(counter)
 
 ########################################################################
 # Task 4:
-for counter in range(1, 11):
-    print(counter)
+# for counter in range(1, 11):
+#     print(counter)
 
 
 ########################################################################
