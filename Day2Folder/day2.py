@@ -28,7 +28,7 @@
 
 ########################################################################
 # Task 5:
-for counter in range(5, 33, 5):
+for counter in range(5, 33, 1):
     print(counter)
 
 
