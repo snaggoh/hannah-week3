@@ -34,7 +34,7 @@
 
 ########################################################################
 # Task 6:
-for counter in range(50):
+for counter in range(50, 0, -1):
     print(counter)
 
 
