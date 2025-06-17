@@ -6,8 +6,8 @@ print("hello from day2")
 # Task 1:
 # for count in range(100):
 #     print("I will not sling mud at my friends!")
-for letter in "This is a beautiful day":
-    print(letter)
+# for letter in "This is a beautiful day":
+#     print(letter)
 ########################################################################
 # Task 2:
 # name = "Phoebe"
