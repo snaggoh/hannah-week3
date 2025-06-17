@@ -10,11 +10,11 @@ for letter in "This is a beautiful day":
     print(letter)
 ########################################################################
 # Task 2:
-name = "Phoebe"
-for letter in name:
-    print("Give me a " + letter + "!")
-print("Who is the best?")
-print(name + "!!!")
+# name = "Phoebe"
+# for letter in name:
+#     print("Give me a " + letter + "!")
+# print("Who is the best?")
+# print(name + "!!!")
 ########################################################################
 # Task 3:
 for counter in range(10):
